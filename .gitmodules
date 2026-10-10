@@ -1,4 +1,4 @@
 [submodule "external/wuji-description"]
 	path = external/wuji-description
-	url = https://github.com/wuji-technology/wuji-description.git
+	url = https://github.com/JHyoonirl/wuji-description.git
 	branch = main
